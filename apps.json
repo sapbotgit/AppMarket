@@ -4,7 +4,8 @@
     "codename":"helloworld",
     "platforms":{
       "Node.JS":"https://github.com/sapbotgit/AppMarket/raw/main/helloworld.zip",
-      "Python":"https://github.com/sapbotgit/AppMarket/raw/main/helloworldpy.rar"
+      "Python":"https://github.com/sapbotgit/AppMarket/raw/main/helloworldpy.rar",
+      "Rust":"https://github.com/sapbotgit/AppMarket/raw/main/helloworldrust.zip"
     }
   }
 ]
