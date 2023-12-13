@@ -5,7 +5,8 @@
     "platforms":{
       "Node.JS":"https://github.com/sapbotgit/AppMarket/raw/main/helloworld.zip",
       "Python":"https://github.com/sapbotgit/AppMarket/raw/main/helloworldpy.rar",
-      "Rust":"https://github.com/sapbotgit/AppMarket/raw/main/helloworldrust.zip"
+      "Rust":"https://github.com/sapbotgit/AppMarket/raw/main/helloworldrust.zip",
+      "Windows":"https://github.com/sapbotgit/AppMarket/raw/main/helloworldwin.zip"
     }
   }
 ]
